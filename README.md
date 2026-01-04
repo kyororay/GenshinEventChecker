@@ -1,5 +1,4 @@
 # GenshinEventChecker  
-======
 
 原神のWebイベントチェッカー  
 Seleniumを用いたwebスクレイピング  
